@@ -1,5 +1,5 @@
-title: tonic-starter
-description: ""
+title: matrix
+description: "green terminal code like in the matrix"
 encoding: utf-8
 
 exclude: ["README.md", "LICENSE", "*.gem", "*.gemspec", "Gemfile.lock"]
